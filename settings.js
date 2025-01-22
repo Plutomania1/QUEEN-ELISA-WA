@@ -36,7 +36,7 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   TIME_ZONE: 'Asia/Colombo',
   CAPTION: '© ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴍᴅ\nmr-nima.vercell.app',
   STICKER_AUTHOR: 'ᴍ ʀ  ɴ ɪ ᴍ ᴀ',
-  STICKER_PACK: 'QUEEN ELISA',
+  STICKER_PACK: 'BELIEVE><2348120549697',
   REMOVE_BG_APIKEY: '',
   MAXIMUM_FILESIZE: 90, //size in MB
   OWNER_R_EMOJI: '💻',
@@ -44,21 +44,21 @@ Qᴜᴇᴇɴ ᴇʟɪꜱᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ`,
   AUTO_VOICE: true,
   INBOX_BLOCK: false,
   OWNER_REACT: true,
-  AUTO_REACT: true,
+  AUTO_REACT: false,
   ONLY_PM_GROUP_MSG_SEND: true,// you want WORK_MODE message send
   AUTO_SEEN_STATUS: true,
   BOT_OFFLINE: false,// Bot online status
   READ_MESSAGE: false,
   ANTI_MSG_SPAM: false,
-  ANTI_BAD_WORD: false,
-  ANTI_VIEW_ONES: false, // This not working now !
+  ANTI_BAD_WORD: true,
+  ANTI_VIEW_ONES: true, // This not working now !
   ANTI_DELETE: true,
   BANED_USER_MSG_SEND: false,
   BLOCK_CMD_MSG_SEND: true,
   INBOX_BLOCK_MSG_SEND: true,
   CMD_CORRECT: true,
   ANTI_CHANNEL_FORWARD: false,
-  ANTI_BOT: false,// disabled
+  ANTI_BOT: true,// disabled
   BUTTON_MESSAGES: false,// Don't change this
   SONG_DOWNLOAD_TYPE: 'selectable', // audio , document
   VIDEO_DOWNLOAD_TYPE: 'selectable', // video
